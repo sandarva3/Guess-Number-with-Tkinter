@@ -19,6 +19,9 @@ def box():
     if user_entry.get() == 'y':
         Label(text="Guess any integer number. Enter 'y' if you did").grid(
             row=4, column=0)
+    elif user_entry.get() == 'n':
+        Label(text="GoodBye. You can come here whenever you want to play.", font="Helvetica 15 bold",
+              bg="black", fg="white", border=2, relief=RAISED).grid(row=8, column=0)
     if user_entry.get() == 'yy':
         Label(text="Now add 10 in the number you've guessed,enter 'y' again after you did").grid(
             row=5, column=0)
