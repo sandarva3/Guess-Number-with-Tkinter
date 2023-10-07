@@ -14,10 +14,10 @@ you can run this game by following one of these steps:
 1. Clone this Git repository to your local machine. Then, navigate to the folder where the repo is located and run the command:
 
     ```
-    python number_guessing_game.py
+    TkinterNumberGuessing.py
     ```
 
-2. Alternatively, you can copy and paste the code from the `number_guessing_game.py` file into your preferred code editor or IDE and run it from there.
+2. Alternatively, you can copy and paste the code from the `TkinterNumberGuessing.py` file into your preferred code editor or IDE and run it from there.
 
 Once you run the game, a window will pop up and it will ask you a questions. To answer that you'd have to enter 'y' for yes and 'n' for no in the input field there.
 
