@@ -1,6 +1,6 @@
 # Tkinter Number Guessing Game
 
-This is a simple game that can guess the number you're thinking of.
+This is a game that I created a long time ago. This is a simple game that can guess the number you're thinking of.
 
 ## How to Play
 
